@@ -51,3 +51,4 @@ module.exports = {
   generateRandomPoint: generateRandomPoint,
   generateRandomPoints: generateRandomPoints
 }
+// Patched
